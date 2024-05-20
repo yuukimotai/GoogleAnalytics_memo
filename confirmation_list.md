@@ -150,8 +150,9 @@ A. 正しい
 A. 誤り
 </details>
 <details>
-<summary></summary>
+<summary>GA4では、参照元、メディア、キャンペーンが切り替わってもセッションが終了しない</summary>
 
+A. 正しい
 </details>
 <details>
 <summary></summary>
